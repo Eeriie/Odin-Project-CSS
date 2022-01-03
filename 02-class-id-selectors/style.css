@@ -1,0 +1,19 @@
+.class {
+    background-color: rgb(252, 195, 204);
+    font-family: 'Verdana', 'sans-serif';
+}
+
+#first-id {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.third-element { 
+    font-size: 24px;
+}
+
+#second-id {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
